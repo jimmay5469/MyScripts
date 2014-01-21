@@ -1,3 +1,6 @@
+.bundle
+settings.yml
+
 # Mac finder artifacts
 .DS_Store
 
